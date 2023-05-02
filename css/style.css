@@ -14,7 +14,7 @@ body {
 
 .bg {
     height: 640px;
-    background: linear-gradient(180deg, rgba(19, 19, 22, 0) 0%, #131316 100%), url(/img/bg.svg);
+    background: linear-gradient(180deg, rgba(19, 19, 22, 0) 0%, #131316 100%), url(/img/bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
